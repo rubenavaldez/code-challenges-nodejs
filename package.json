@@ -1,0 +1,22 @@
+{
+  "name": "code-challenges-nodejs",
+  "version": "1.0.0",
+  "description": "A library of my coding challenge solutions and jest unit tests from codewars, leetcode, and edabit. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rubenavaldez/code-challenges-nodejs.git"
+  },
+  "author": "Ruben Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenavaldez/code-challenges-nodejs/issues"
+  },
+  "homepage": "https://github.com/rubenavaldez/code-challenges-nodejs#readme",
+  "dependencies": {
+    "chai": "^5.1.1"
+  }
+}
